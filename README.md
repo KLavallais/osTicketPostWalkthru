@@ -55,7 +55,7 @@ In this video, I walk you through the **post-installation** process of **osTicke
 
 ---
 
-## **Post-Installation Repository**
+## **Previous osTicket Repositories**
 
 For further details on **SLAs**, **roles**, and other settings, you can check out my dedicated **osTicket** configuration repository: [osTicket Installation & Configuration Repository](https://github.com/KLavallais/osTicketInstall).
 
